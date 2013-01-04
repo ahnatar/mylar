@@ -84,3 +84,20 @@
 03-Jan-2013 22:19:35 - INFO    :: CP Server Thread-2 : No pullist found...I'm going to try and get a new list now.
 03-Jan-2013 22:25:14 - INFO    :: MainThread : Received signal: shutdown
 03-Jan-2013 22:25:24 - INFO    :: MainThread : Mylar is shutting down...
+03-Jan-2013 22:27:46 - INFO    :: MainThread : Checking to see if the database has all tables....
+03-Jan-2013 22:27:46 - INFO    :: MainThread : Populating Base Exception listings into Mylar....
+03-Jan-2013 22:27:46 - ERROR   :: MainThread : No Custom Exceptions found. Using base exceptions only.
+03-Jan-2013 22:27:46 - DEBUG   :: MainThread : Trying to execute: "git rev-parse HEAD" with shell in C:\Users\Ahnatar\Downloads\mylar
+03-Jan-2013 22:27:47 - DEBUG   :: MainThread : Git output: 5ac77fc2d45df3eaa8723c8b9e2292285f41c40e
+
+03-Jan-2013 22:27:47 - INFO    :: MainThread : Retrieving latest version information from github
+03-Jan-2013 22:27:48 - INFO    :: MainThread : Comparing currently installed version with latest github version
+03-Jan-2013 22:27:48 - WARNING :: MainThread : Could not get commits behind from github
+03-Jan-2013 22:27:49 - INFO    :: MainThread : Starting Mylar on port: 8090
+03-Jan-2013 22:27:55 - INFO    :: CP Server Thread-4 : No pullist found...I'm going to try and get a new list now.
+03-Jan-2013 22:29:06 - INFO    :: CP Server Thread-11 : No pullist found...I'm going to try and get a new list now.
+03-Jan-2013 22:29:17 - INFO    :: CP Server Thread-11 : No pullist found...I'm going to try and get a new list now.
+03-Jan-2013 22:30:58 - INFO    :: CP Server Thread-2 : No pullist found...I'm going to try and get a new list now.
+03-Jan-2013 22:31:18 - INFO    :: CP Server Thread-5 : Retrieving latest version information from github
+03-Jan-2013 22:31:19 - INFO    :: CP Server Thread-5 : Comparing currently installed version with latest github version
+03-Jan-2013 22:31:19 - WARNING :: CP Server Thread-5 : Could not get commits behind from github
