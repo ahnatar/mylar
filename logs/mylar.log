@@ -1,0 +1,28 @@
+03-Jan-2013 21:20:07 - INFO    :: MainThread : Checking to see if the database has all tables....
+03-Jan-2013 21:20:07 - INFO    :: MainThread : Populating Base Exception listings into Mylar....
+03-Jan-2013 21:20:07 - ERROR   :: MainThread : No Custom Exceptions found. Using base exceptions only.
+03-Jan-2013 21:20:07 - DEBUG   :: MainThread : Trying to execute: "git rev-parse HEAD" with shell in C:\Users\Ahnatar\Downloads\mylar
+03-Jan-2013 21:20:07 - DEBUG   :: MainThread : Git output: dde3e08f9b629eb2c79e11e296b7b2cc59624591
+
+03-Jan-2013 21:20:07 - INFO    :: MainThread : Retrieving latest version information from github
+03-Jan-2013 21:20:08 - INFO    :: MainThread : Comparing currently installed version with latest github version
+03-Jan-2013 21:20:09 - WARNING :: MainThread : Could not get commits behind from github
+03-Jan-2013 21:20:10 - INFO    :: MainThread : Starting Mylar on port: 8090
+03-Jan-2013 21:25:11 - INFO    :: MainThread : Received signal: restart
+03-Jan-2013 21:25:21 - INFO    :: MainThread : Mylar is restarting...
+03-Jan-2013 21:25:21 - INFO    :: MainThread : Restarting Mylar with ['C:\\Python27\\python.exe', 'C:\\Users\\Ahnatar\\Downloads\\mylar\\Mylar.py', '--nolaunch']
+03-Jan-2013 21:25:21 - INFO    :: MainThread : Checking to see if the database has all tables....
+03-Jan-2013 21:25:21 - INFO    :: MainThread : Populating Base Exception listings into Mylar....
+03-Jan-2013 21:25:21 - ERROR   :: MainThread : No Custom Exceptions found. Using base exceptions only.
+03-Jan-2013 21:25:21 - DEBUG   :: MainThread : Trying to execute: "git rev-parse HEAD" with shell in C:\Users\Ahnatar\Downloads\mylar
+03-Jan-2013 21:25:21 - DEBUG   :: MainThread : Git output: dde3e08f9b629eb2c79e11e296b7b2cc59624591
+
+03-Jan-2013 21:25:21 - INFO    :: MainThread : Retrieving latest version information from github
+03-Jan-2013 21:25:23 - INFO    :: MainThread : Comparing currently installed version with latest github version
+03-Jan-2013 21:25:23 - WARNING :: MainThread : Could not get commits behind from github
+03-Jan-2013 21:25:25 - INFO    :: MainThread : Starting Mylar on port: 8090
+03-Jan-2013 21:26:46 - INFO    :: Thread-12 : Now adding/updating: DC Comics The New 52
+03-Jan-2013 21:26:47 - INFO    :: Thread-12 : There was an error when trying to add DC Comics The New 52 (2012)
+03-Jan-2013 21:33:18 - INFO    :: CP Server Thread-9 : No pullist found...I'm going to try and get a new list now.
+03-Jan-2013 21:33:35 - INFO    :: CP Server Thread-8 : No directory found - So I created one at: None
+03-Jan-2013 21:34:15 - INFO    :: CP Server Thread-6 : Deleting all traces of Comic: Comic ID: 44267
