@@ -39,3 +39,48 @@
 03-Jan-2013 21:40:09 - INFO    :: MainThread : Comparing currently installed version with latest github version
 03-Jan-2013 21:40:10 - WARNING :: MainThread : Could not get commits behind from github
 03-Jan-2013 21:40:11 - INFO    :: MainThread : Starting Mylar on port: 8090
+03-Jan-2013 21:42:36 - INFO    :: Thread-12 : Now adding/updating: Batman: Arkham Unhinged
+03-Jan-2013 21:42:38 - INFO    :: Thread-12 : Sucessfully retrieved details for Batman: Arkham Unhinged
+03-Jan-2013 21:42:38 - INFO    :: Thread-12 : Directory successfully created at: c:\Comics/Artist/Album [Year]
+03-Jan-2013 21:42:39 - INFO    :: Thread-12 : Sucessfully retrieved cover for Batman: Arkham Unhinged
+03-Jan-2013 21:42:39 - INFO    :: Thread-12 : Sucessfully retrieved issue details for Batman: Arkham Unhinged
+03-Jan-2013 21:42:39 - INFO    :: Thread-12 : Now adding/updating issues for Batman: Arkham Unhinged
+03-Jan-2013 21:42:39 - INFO    :: Thread-12 : Checking directory for existing issues.
+03-Jan-2013 21:42:39 - INFO    :: Thread-12 : Now checking files for Batman: Arkham Unhinged (2012) in c:\Comics/Artist/Album [Year]
+03-Jan-2013 21:42:39 - INFO    :: Thread-12 : I've found 0 / 9 issues.
+03-Jan-2013 21:42:39 - INFO    :: Thread-12 : Updating complete for: Batman: Arkham Unhinged
+03-Jan-2013 21:42:39 - INFO    :: Thread-12 : Checking this week's pullist for new issues of Batman: Arkham Unhinged
+03-Jan-2013 21:42:39 - ERROR   :: Thread-12 : Database error: no such table: weekly
+03-Jan-2013 21:46:12 - DEBUG   :: CP Server Thread-4 : Refreshing comics: ['47791']
+03-Jan-2013 21:49:04 - INFO    :: Thread-13 : Now adding/updating: Batman
+03-Jan-2013 21:49:10 - INFO    :: Thread-13 : Sucessfully retrieved details for Batman
+03-Jan-2013 21:49:10 - INFO    :: Thread-13 : Directory (c:\Comics/Artist/Album [Year]) already exists! Continuing...
+03-Jan-2013 21:49:11 - INFO    :: Thread-13 : Sucessfully retrieved cover for Batman
+03-Jan-2013 21:49:11 - INFO    :: Thread-13 : Sucessfully retrieved issue details for Batman
+03-Jan-2013 21:49:11 - INFO    :: Thread-13 : Now adding/updating issues for Batman
+03-Jan-2013 21:49:11 - INFO    :: Thread-13 : Checking directory for existing issues.
+03-Jan-2013 21:49:11 - INFO    :: Thread-13 : Now checking files for Batman (2012) in c:\Comics/Artist/Album [Year]
+03-Jan-2013 21:49:11 - INFO    :: Thread-13 : I've found 0 / 7 issues.
+03-Jan-2013 21:49:11 - INFO    :: Thread-13 : Updating complete for: Batman
+03-Jan-2013 21:49:11 - INFO    :: Thread-13 : Checking this week's pullist for new issues of Batman
+03-Jan-2013 21:49:11 - ERROR   :: Thread-13 : Database error: no such table: weekly
+03-Jan-2013 21:51:35 - INFO    :: CP Server Thread-10 : No pullist found...I'm going to try and get a new list now.
+03-Jan-2013 21:57:54 - INFO    :: CP Server Thread-11 : No pullist found...I'm going to try and get a new list now.
+03-Jan-2013 21:58:55 - INFO    :: MainThread : Received signal: restart
+03-Jan-2013 21:59:06 - INFO    :: MainThread : Mylar is restarting...
+03-Jan-2013 21:59:06 - INFO    :: MainThread : Restarting Mylar with ['C:\\Python27\\python.exe', 'C:\\Users\\Ahnatar\\Downloads\\mylar\\Mylar.py', '--nolaunch']
+03-Jan-2013 21:59:06 - INFO    :: MainThread : Checking to see if the database has all tables....
+03-Jan-2013 21:59:07 - INFO    :: MainThread : Populating Base Exception listings into Mylar....
+03-Jan-2013 21:59:07 - ERROR   :: MainThread : No Custom Exceptions found. Using base exceptions only.
+03-Jan-2013 21:59:07 - DEBUG   :: MainThread : Trying to execute: "git rev-parse HEAD" with shell in C:\Users\Ahnatar\Downloads\mylar
+03-Jan-2013 21:59:07 - DEBUG   :: MainThread : Git output: 35bd7ae656f3a9aff2506354b572139136a8e599
+
+03-Jan-2013 21:59:07 - INFO    :: MainThread : Retrieving latest version information from github
+03-Jan-2013 21:59:08 - INFO    :: MainThread : Comparing currently installed version with latest github version
+03-Jan-2013 21:59:10 - WARNING :: MainThread : Could not get commits behind from github
+03-Jan-2013 21:59:12 - INFO    :: MainThread : Starting Mylar on port: 8090
+03-Jan-2013 22:04:07 - INFO    :: CP Server Thread-10 : No pullist found...I'm going to try and get a new list now.
+03-Jan-2013 22:06:08 - INFO    :: CP Server Thread-11 : No pullist found...I'm going to try and get a new list now.
+03-Jan-2013 22:19:35 - INFO    :: CP Server Thread-2 : No pullist found...I'm going to try and get a new list now.
+03-Jan-2013 22:25:14 - INFO    :: MainThread : Received signal: shutdown
+03-Jan-2013 22:25:24 - INFO    :: MainThread : Mylar is shutting down...
